@@ -1,4 +1,4 @@
-# 🌦️ Weather Insights Dashboard (Power BI + WeatherAPI)
+# 🌦️ Live Weather Insights with Power BI and API Integration
 
 ## Dashboard Visuals
 

@@ -1,10 +1,13 @@
-## 🌦️ Live Weather Insights with Power BI and API Integration
+# 🌦️ Live Weather Insights with Power BI and API Integration
+
+---
 
 | | |
 |---|---|
 | <img src="visuals/Page_1.png" width="500"/> | <img src="visuals/Page_2.png" width="500"/> |
 | <img src="visuals/Page_3.png" width="500"/> | <img src="visuals/Page_4.png" width="500"/> |
 
+---
 
 ## Why WeatherAPI?
 [WeatherAPI.com](https://www.weatherapi.com/) is a simple yet powerful service that provides live, historical, and forecast weather data. It is a perfect fit for Power BI because the data is available in JSON format, making it very easy to connect, process, transform, and visualize. With its detailed information on current weather, air quality, and forecasts, it enables building a professional, dynamic, and live weather dashboard.

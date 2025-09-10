@@ -14,13 +14,13 @@
 ## Why WeatherAPI?
 [WeatherAPI.com](https://www.weatherapi.com/) is a simple yet powerful service that provides live, historical, and forecast weather data. It is a perfect fit for Power BI because the data is available in JSON format, making it very easy to connect, process, transform, and visualize. With its detailed information on current weather, air quality, and forecasts, it enables building a professional, dynamic, and live weather dashboard.
 
-## Prerequisites
+## 🛠️Prerequisites
 To get started with this project, you will need:  
 - A free or paid account on [WeatherAPI.com](https://www.weatherapi.com/)  
 - **Power BI Desktop** installed on your computer  
 - Basic knowledge of Power BI, including how to load data, transform it, and create visuals  
 
-## Project Workflow
+## 🎯Project Workflow
 
 ### Step 1: Sign Up and Get API Key
 First, create an account at WeatherAPI.com. Once registered, you will be given a personal **API key**. This key is essential because it authenticates your requests to the API. Without this key, Power BI won’t be able to fetch weather data.
@@ -60,7 +60,7 @@ WeatherAPI also provides Air Quality Index (AQI) information in the JSON respons
 - Add visuals like bar charts, gauges, or colored indicators to represent air quality levels.  
 This adds more depth to your dashboard and helps analyze both weather and pollution data together.
 
-## Conclusion
+## 📊Conclusion
 By integrating **WeatherAPI** with **Power BI**, you can create a **dynamic and live Weather Insights Dashboard** that displays updated weather information, air quality data, and interactive visuals. While the data refresh happens when you reload or schedule refreshes in Power BI Service, the dashboard still provides **live API-driven insights** that can be enriched with AQI and other measures.  
 
 With clean data transformation, reusable DAX measures, and interactive visuals, your dashboard will stay scalable, maintainable, and easy to enhance as requirements grow.  
